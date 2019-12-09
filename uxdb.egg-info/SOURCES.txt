@@ -4,7 +4,7 @@ LICENSE
 MANIFEST.in
 Makefile
 NEWS
-README.rst
+README.md
 setup.cfg
 setup.py
 doc/COPYING.LESSER
